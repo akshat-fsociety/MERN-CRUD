@@ -14,4 +14,5 @@
 <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
 <img src="https://img.icons8.com/color/100/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/100/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/100/000000/nodejs.png"/><br>
+<p>Made with ❤ by Akshat Srivastava</p>
