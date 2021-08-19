@@ -11,8 +11,8 @@
 <img src="assets/Screenshot (122).png"><br>
 
 <h1>Tech Stack</h1><br>
-<img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/70/000000/mongodb.png"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
-<img src="https://img.icons8.com/color/100/000000/react-native.png"/>
-<img src="https://img.icons8.com/color/100/000000/nodejs.png"/><br>
+<img src="https://img.icons8.com/color/70/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/70/000000/nodejs.png"/><br>
 <p>Made with ❤ by Akshat Srivastava</p>
